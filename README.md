@@ -102,6 +102,21 @@ root@kali:~# neofetch
   <img src="https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
+## 🟢 Matrix Rain
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCESS%20GRANTED-00FF41?style=for-the-badge&logo=radicle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/root@kali-00FF41?style=for-the-badge"/>
+</p>
+
+```text
+01001000 01100101 01101100 01101100 01101111
+11010010 10101001 00101110 01110011 01101000
+> decrypting profile payload ............ [OK]
+> root@kali:~# whoami -> matheus
+> connection established :: matrix://online
+01001000 01100001 01100011 01101011 01100101
+```
+
 ## 🚀 Skills Proficiency
 
 <p align="center">
