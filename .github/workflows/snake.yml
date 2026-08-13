@@ -1,0 +1,31 @@
+name: Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: matheus24scc
+          outputs: dist/snake.svg
+          color_dots: "#0e4429,#39d353,#26a641,#138d40"
+          color_snake: "#00ff41"
+          color_background: "#000000"
+      - name: Commit snake to output branch
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions"
+          git fetch origin output || git checkout -b output
+          git checkout output 2>/dev/null || git checkout -b output
+          cp dist/snake.svg snake.svg
+          git add snake.svg
+          git commit -m "update snake" || echo "no changes"
+          git push -f origin output
