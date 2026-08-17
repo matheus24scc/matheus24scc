@@ -99,7 +99,7 @@ root@matheus:~# ./status.sh
 ## ?? Metrics <sub><sup>via lowlighter/metrics</sup></sub>
 
 <p align="center">
-  <img src="metrics/classic.svg" alt="metrics"/>
+  <img src="github-metrics.svg" alt="metrics"/>
 </p>
 
 ---
