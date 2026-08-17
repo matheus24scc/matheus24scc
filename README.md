@@ -113,7 +113,7 @@ root@matheus:~# ./status.sh
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheus24scc/matheus24scc/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/matheus24scc/matheus24scc/output/snake.svg" alt="snake"/>
 </p>
 
 ---
