@@ -103,12 +103,12 @@ root@matheus:~# ./status.sh
 <p align="center">
   <img src="https://img.shields.io/github/stars/matheus24scc?style=for-the-badge&logo=github&logoColor=white&color=39FF14"/>
   <img src="https://img.shields.io/github/followers/matheus24scc?style=for-the-badge&logo=github&logoColor=white&color=39FF14"/>
-  <img src="https://img.shields.io/github/commit-activity/y/matheus24scc?style=for-the-badge&color=39FF14"/>
-  <img src="https://img.shields.io/github/repo-count/matheus24scc?style=for-the-badge&color=39FF14"/>
+  <img src="https://img.shields.io/badge/REPOS-18-39FF14?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/matheus24scc/ConfidentialAI-Hub?style=for-the-badge&logo=github&color=00E5FF"/>
   <img src="https://img.shields.io/github/last-commit/matheus24scc/matheus24scc?style=for-the-badge&color=00E5FF"/>
+  <img src="https://img.shields.io/badge/STACK-Python%7CGo%7CTS-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=for-the-badge"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=matheus24scc&theme=algolia&hide_border=true" height="170"/>
