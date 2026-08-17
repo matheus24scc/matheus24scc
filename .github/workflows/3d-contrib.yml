@@ -12,10 +12,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER: matheus24scc
+          USERNAME: matheus24scc
       - name: Commit & Push
         run: |
           git config user.name github-actions
