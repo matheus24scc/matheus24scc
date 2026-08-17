@@ -82,26 +82,19 @@ root@matheus:~# ./status.sh
 ## ?? Lab <sub><sup>repos · security × AI</sup></sub>
 
 <p align="center">
-  <a href="https://github.com/matheus24scc/ConfidentialAI-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=ConfidentialAI-Hub&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
-  <a href="https://github.com/matheus24scc/Sigstore-SBOM-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=Sigstore-SBOM-Hub&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+  <a href="https://github.com/matheus24scc/ConfidentialAI-Hub"><img src="https://img.shields.io/badge/REPO-ConfidentialAI--Hub-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/Sigstore-SBOM-Hub"><img src="https://img.shields.io/badge/REPO-Sigstore--SBOM--Hub-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/Guardrail-Kit"><img src="https://img.shields.io/badge/REPO-Guardrail--Kit-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/zkKYC-Bridge"><img src="https://img.shields.io/badge/REPO-zkKYC--Bridge-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/matheus24scc/Guardrail-Kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=Guardrail-Kit&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
-  <a href="https://github.com/matheus24scc/zkKYC-Bridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=zkKYC-Bridge&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+  <a href="https://github.com/matheus24scc/AgentFlow-Studio"><img src="https://img.shields.io/badge/REPO-AgentFlow--Studio-00E5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/AIOps-Lens"><img src="https://img.shields.io/badge/REPO-AIOps--Lens-00E5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/EdgeML-Flow"><img src="https://img.shields.io/badge/REPO-EdgeML--Flow-00E5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/VisionLLM-Kit"><img src="https://img.shields.io/badge/REPO-VisionLLM--Kit-00E5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<details>
-<summary>?? more repos</summary>
-
-- [AgentFlow-Studio](https://github.com/matheus24scc/AgentFlow-Studio)
-- [AIOps-Lens](https://github.com/matheus24scc/AIOps-Lens)
-- [EdgeML-Flow](https://github.com/matheus24scc/EdgeML-Flow)
-- [VisionLLM-Kit](https://github.com/matheus24scc/VisionLLM-Kit)
-- [Backstage-X](https://github.com/matheus24scc/Backstage-X)
-- [Q-DevKit](https://github.com/matheus24scc/Q-DevKit)
-- [whatsapp-api](https://github.com/matheus24scc/whatsapp-api)
-
-</details>
+> ? também: [Backstage-X](https://github.com/matheus24scc/Backstage-X) · [Q-DevKit](https://github.com/matheus24scc/Q-DevKit) · [whatsapp-api](https://github.com/matheus24scc/whatsapp-api) · [matheus24scc](https://github.com/matheus24scc/matheus24scc)
 
 ---
 
