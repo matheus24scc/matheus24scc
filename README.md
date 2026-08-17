@@ -1,27 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=220&section=header&animation=fadeIn&fontColor=00FF41&fontSize=60&text=MATHEUS&desc=Pentest%20%C2%B7%20Red%20Team%20%C2%B7%20CTF%20%C2%B7%20Offensive%20Security&descAlign=50&descAlignY=62&descSize=22" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0a2e16&height=260&section=header&animation=twinkling&fontColor=39FF14&fontSize=64&text=MATHEUS&desc=Pentest%20%C2%B7%20Red%20Team%20%C2%B7%20CTF%20%C2%B7%20Offensive%20Security&descAlign=50&descAlignY=64&descSize=22&descColor=9EFFB0"/>
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FF41&center=true&vCenter=true&width=820&lines=Ethical+hacker+in+training;Pentest+%C2%B7+Red+Team+%C2%B7+CTF;Breaking+things+to+build+better+defenses;Offensive+%2B+Defensive+mindset;Always+learning%2C+always+pwning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=39FF14&center=true&vCenter=true&width=820&lines=Ethical+hacker+in+training;Pentest+%C2%B7+Red+Team+%C2%B7+CTF;Break+to+defend+better;Offensive+%2B+Defensive+mindset;Security+%C3%97+AI+builder" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Root%20Mode-00FF41?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-00FF41?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=matheus24scc&label=Profile%20Views&color=00FF41&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/uptime-24%2F7%20pwn-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Root%20Mode-39FF14?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-39FF14?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=matheus24scc&label=Profile%20Views&color=39FF14&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/stack-Security%20%C3%97%20AI-00E5FF?style=for-the-badge"/>
 </p>
 
 <pre align="center">
-      .-"""""-.
-    .'  _   _  '.
-   /   (o) (o)   \
-  |    ,-----.    |     💀  M A T H E U S  💀
-  |   /   ^   \   |     root@matrix:~#
-  |   \  '---'  /  |
-   \   '.___.'   /    &gt; whoami
-    '-._______.-'     &gt; pentester.in.training
+   ┌─[root@matrix]─[~]
+   └─$ ./boot.sh --theme=pentest
+   [+] loading profile ............ done
+   [+] mounting arsenal ........... done
+   [+] spawning terminal .......... done
+   ┌──────────────────────────────────────┐
+   │   M A T H E U S   ::  0xM4T               │
+   │   dev by day · recon by night            │
+   └──────────────────────────────────────┘
 </pre>
 
 ---
@@ -33,7 +34,7 @@ root@matheus:~# whoami
 matheus — developer by day, recon & red-team learner by night
 
 root@matheus:~# cat about.txt
-> Building stuff: APIs, automation, and security tooling.
+> Building stuff: APIs, automation, and security/AI tooling.
 > Learning path: Pentest -> Red Team -> Offensive Security.
 > Vibe: break it, understand it, defend it better.
 > Everything here is study / CTF / AUTHORIZED testing only.
@@ -53,14 +54,14 @@ root@matheus:~# ./status.sh
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-00FF41?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nmap-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hydra-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gobuster-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-39FF14?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nmap-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-39FF14?style=for-the-badge"/>
 </p>
 
 > ? Tooling above is for **authorized labs, CTFs and learning**. I don't test what I don't own or isn't explicitly permitted.
@@ -71,10 +72,36 @@ root@matheus:~# ./status.sh
 
 ```text
 [+] Studying   : Web app pentest, Active Directory, privilege escalation
-[+] Building   : security & automation tooling (Go / Python / TS)
+[+] Building   : security & AI tooling (Go / Python / TS)
 [+] Playing    : CTF challenges (web, pwn, recon)
 [+] Goal       : OSCP / offensive-security certs (someday)
 ```
+
+---
+
+## ?? Lab <sub><sup>repos · security × AI</sup></sub>
+
+<p align="center">
+  <a href="https://github.com/matheus24scc/ConfidentialAI-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=ConfidentialAI-Hub&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+  <a href="https://github.com/matheus24scc/Sigstore-SBOM-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=Sigstore-SBOM-Hub&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/matheus24scc/Guardrail-Kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=Guardrail-Kit&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+  <a href="https://github.com/matheus24scc/zkKYC-Bridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matheus24scc&repo=zkKYC-Bridge&theme=github_dark&hide_border=true&bg_color=0d1117" height="140"/></a>
+</p>
+
+<details>
+<summary>?? more repos</summary>
+
+- [AgentFlow-Studio](https://github.com/matheus24scc/AgentFlow-Studio)
+- [AIOps-Lens](https://github.com/matheus24scc/AIOps-Lens)
+- [EdgeML-Flow](https://github.com/matheus24scc/EdgeML-Flow)
+- [VisionLLM-Kit](https://github.com/matheus24scc/VisionLLM-Kit)
+- [Backstage-X](https://github.com/matheus24scc/Backstage-X)
+- [Q-DevKit](https://github.com/matheus24scc/Q-DevKit)
+- [whatsapp-api](https://github.com/matheus24scc/whatsapp-api)
+
+</details>
 
 ---
 
@@ -109,15 +136,18 @@ root@matheus:~# ./status.sh
 <p align="center">
   <img src="github-metrics.svg" alt="metrics"/>
 </p>
+<p align="center">
+  <img src="github-metrics-terminal.svg" alt="metrics terminal"/>
+</p>
 
 ---
 
 ## ?? Connect
 
 <p align="center">
-  <a href="https://github.com/matheus24scc" target="_blank"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/matheus-gabriel-schveitzer-4a2371139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mgabriel552@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc" target="_blank"><img src="https://img.shields.io/badge/-GitHub-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheus-gabriel-schveitzer-4a2371139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mgabriel552@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
