@@ -101,17 +101,20 @@ root@matheus:~# ./status.sh
 ## ?? GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus24scc&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus24scc&layout=compact&theme=algolia&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/github/stars/matheus24scc?style=for-the-badge&logo=github&logoColor=white&color=39FF14"/>
+  <img src="https://img.shields.io/github/followers/matheus24scc?style=for-the-badge&logo=github&logoColor=white&color=39FF14"/>
+  <img src="https://img.shields.io/github/commit-activity/y/matheus24scc?style=for-the-badge&color=39FF14"/>
+  <img src="https://img.shields.io/github/repo-count/matheus24scc?style=for-the-badge&color=39FF14"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/matheus24scc/ConfidentialAI-Hub?style=for-the-badge&logo=github&color=00E5FF"/>
+  <img src="https://img.shields.io/github/last-commit/matheus24scc/matheus24scc?style=for-the-badge&color=00E5FF"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=matheus24scc&theme=algolia&hide_border=true" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus24scc&theme=github-dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheus24scc&theme=algolia&no-frame=true&margin-w=8" />
 </p>
 
 ---
