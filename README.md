@@ -96,6 +96,14 @@ root@matheus:~# ./status.sh
 
 ---
 
+## ?? 3D Contributions <sub><sup>github-profile-3d-contrib</sup></sub>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3d contributions"/>
+</p>
+
+---
+
 ## ?? Metrics <sub><sup>via lowlighter/metrics</sup></sub>
 
 <p align="center">
