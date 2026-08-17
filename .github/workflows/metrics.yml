@@ -21,3 +21,17 @@ jobs:
           plugins: achievements, stars, languages
           config_timezone: America/Sao_Paulo
           output: github-metrics.svg
+  metrics-terminal:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate terminal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: matheus24scc
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          output: github-metrics-terminal.svg
