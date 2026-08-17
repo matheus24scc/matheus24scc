@@ -1,2 +1,23 @@
-name: x
-on: push
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: matheus24scc
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugins: achievements, stars, languages
+          config_timezone: America/Sao_Paulo
+          output: github-metrics.svg
