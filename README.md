@@ -10,7 +10,19 @@
   <img src="https://img.shields.io/badge/Status-Root%20Mode-00FF41?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-00FF41?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=matheus24scc&label=Profile%20Views&color=00FF41&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/uptime-24%2F7%20pwn-00FF41?style=for-the-badge"/>
 </p>
+
+<pre align="center">
+      .-"""""-.
+    .'  _   _  '.
+   /   (o) (o)   \
+  |    ,-----.    |     💀  M A T H E U S  💀
+  |   /   ^   \   |     root@matrix:~#
+  |   \  '---'  /  |
+   \   '.___.'   /    &gt; whoami
+    '-._______.-'     &gt; pentester.in.training
+</pre>
 
 ---
 
@@ -73,7 +85,21 @@ root@matheus:~# ./status.sh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus24scc&layout=compact&theme=algolia&hide_border=true" height="170"/>
 </p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=matheus24scc&theme=algolia&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus24scc&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=matheus24scc&theme=algolia&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+## ?? Metrics <sub><sup>via lowlighter/metrics</sup></sub>
+
+<p align="center">
+  <img src="metrics/classic.svg" alt="metrics"/>
 </p>
 
 ---
