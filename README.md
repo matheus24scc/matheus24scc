@@ -131,13 +131,10 @@ root@matheus:~# ./status.sh
 
 ---
 
-## ?? Metrics <sub><sup>via lowlighter/metrics</sup></sub>
+## ?? Metrics <sub><sup>terminal-style · via lowlighter/metrics</sup></sub>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="metrics"/>
-</p>
-<p align="center">
-  <img src="github-metrics-terminal.svg" alt="metrics terminal"/>
+  <img src="github-metrics.svg" alt="metrics terminal"/>
 </p>
 
 ---
