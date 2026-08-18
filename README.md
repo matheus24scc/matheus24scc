@@ -150,3 +150,12 @@ root@matheus:~# ./status.sh
 ---
 
 > ? **Disclaimer:** this profile is for learning, CTFs and authorized security testing only. No illegal activity. Hack the planet responsibly. ??
+
+## Status (checkup 2026-08-18)
+> Revisado na campanha de repo-checkup. Relatorio completo: `~/repo-checkup/reports/matheus24scc.md` (local do mantenedor, nao no repo).
+- **Build/Install**: scaffold/referencia sem build
+- **Smoke test**: N/A
+- **Para rodar de ponta-a-ponta precisa de**: nenhum servico externo
+- **Inconsistencias conhecidas (README vs codigo)**: nenhuma
+- **Seguranca**: sem vulns altas remediadas automaticamente
+- **Estado resumido**: scaffold/referencia sem app para rodar
