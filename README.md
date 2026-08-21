@@ -98,8 +98,9 @@ root@matheus:~# ./status.sh
   <a href="https://github.com/matheus24scc/pkgdoctor"><img src="https://img.shields.io/badge/REPO-pkgdoctor--dev%20tool-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/matheus24scc/privsentry"><img src="https://img.shields.io/badge/REPO-privsentry--dev%20tool-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/matheus24scc/termhabit"><img src="https://img.shields.io/badge/REPO-termhabit--dev%20tool-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/matheus24scc/valeapena"><img src="https://img.shields.io/badge/REPO-valeapena--dev%20tool-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-> ? também: [Backstage-X](https://github.com/matheus24scc/Backstage-X) · [Q-DevKit](https://github.com/matheus24scc/Q-DevKit) · [whatsapp-api](https://github.com/matheus24scc/whatsapp-api) · [pkgdoctor](https://github.com/matheus24scc/pkgdoctor) · [matheus24scc](https://github.com/matheus24scc/matheus24scc) · [permdoctor](https://github.com/matheus24scc/privsentry) · [termhabit](https://github.com/matheus24scc/termhabit)
+> ? também: [Backstage-X](https://github.com/matheus24scc/Backstage-X) · [Q-DevKit](https://github.com/matheus24scc/Q-DevKit) · [whatsapp-api](https://github.com/matheus24scc/whatsapp-api) · [pkgdoctor](https://github.com/matheus24scc/pkgdoctor) · [matheus24scc](https://github.com/matheus24scc/matheus24scc) · [permdoctor](https://github.com/matheus24scc/privsentry) · [termhabit](https://github.com/matheus24scc/termhabit) · [valeapena](https://github.com/matheus24scc/valeapena)
 
 ---
 
