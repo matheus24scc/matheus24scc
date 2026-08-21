@@ -94,7 +94,10 @@ root@matheus:~# ./status.sh
   <a href="https://github.com/matheus24scc/VisionLLM-Kit"><img src="https://img.shields.io/badge/REPO-VisionLLM--Kit-00E5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-> ? também: [Backstage-X](https://github.com/matheus24scc/Backstage-X) · [Q-DevKit](https://github.com/matheus24scc/Q-DevKit) · [whatsapp-api](https://github.com/matheus24scc/whatsapp-api) · [matheus24scc](https://github.com/matheus24scc/matheus24scc)
+<p align="center">
+  <a href="https://github.com/matheus24scc/pkgdoctor"><img src="https://img.shields.io/badge/REPO-pkgdoctor--dev%20tool-39FF14?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+> ? também: [Backstage-X](https://github.com/matheus24scc/Backstage-X) · [Q-DevKit](https://github.com/matheus24scc/Q-DevKit) · [whatsapp-api](https://github.com/matheus24scc/whatsapp-api) · [pkgdoctor](https://github.com/matheus24scc/pkgdoctor) · [matheus24scc](https://github.com/matheus24scc/matheus24scc)
 
 ---
 
